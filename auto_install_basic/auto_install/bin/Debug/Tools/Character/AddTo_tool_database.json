@@ -1,0 +1,13 @@
+{
+			"uuid": "eb593131-3509-42a2-8468-716dc0036560",
+			"previewRenderable": "$GAME_DATA/Character/Char_Tools/char_spudgun_preview.rend",
+			"previewRotation": [ 1, 0, 0, 0, 0, -1, 0, 1, 0 ],
+			"script": { "file": "$GAME_DATA/Mod_EsseivaN/Scripts/Teleporter.lua", "class": "Teleporter" }
+		},
+		{
+			"uuid": "eb593131-3509-42a2-8468-716dc0036561",
+			"previewRenderable": "$GAME_DATA/Character/Char_Tools/char_spudgun_preview.rend",
+			"previewRotation": [ 1, 0, 0, 0, 0, -1, 0, 1, 0 ],
+			"script": { "file": "$GAME_DATA/Mod_EsseivaN/Scripts/MachineGun.lua", "class": "MachineGun" }
+		},
+		

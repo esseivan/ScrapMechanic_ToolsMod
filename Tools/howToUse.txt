@@ -1,0 +1,39 @@
+
+############# Jetpack ###############
+
+Default modes :
+	Crouching 				Hover
+	Aiming 					Verical up
+	Crouching and Aiming 	Horizontal
+	Idle 					Normal
+Q (Toggle) 					Decrease power
+R (Reload) 					Increase power
+
+Open "$GAME_DATA\Mod_EsseivaN\Scripts\Jetpack.lua" to edit advanced settings
+
+Advanced setings :
+	modeIdle				Mode when IDLE
+	modeCrouching			Mode when Crouching
+	modeAiming				Mode when Aiming
+	modeCrouchingAiming		Mode when Crouching AND Aiming
+	limitUpDown				Angle to swith from Vertical UP to Vertical DOWN
+	HIGH_SPEED				Enable the High Speed mode
+	updateCounterMax		Rate to apply the impulses, set it to 1 for best performances in hover mode
+	silentMode				Hide debug log
+
+############# MACHINE GUN ###############
+
+Q (Toggle) 					Decrease firerate
+R (Toggle) 					Increase firerate
+
+Open "$GAME_DATA\Mod_EsseivaN\Scripts\MachineGun.lua" to edit advanced settings
+
+Advanced setings :
+	enableFP_Animation 		Enable the first person dust effect
+	enableSpread			Global enable of the projectiles spread
+	disableSpreadOnAim		Disable projectile spread only when aiming
+
+
+	
+EsseivaN
+v6

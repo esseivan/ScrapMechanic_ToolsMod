@@ -1,0 +1,8 @@
+{
+   "description" : "This mod add some tools :\n--  Jetpack\n--  Machine gun\n\nVersion 0.3.1 or greater required\n\n!!!\nThis mod isn't installed just by clicking the subscribe button :/\nREAD BELOW to install the mod\n!!!\nOpen the mod folder ( ...\\steamapps\\workshop\\content\\387990\\1505812019\\ )\nOpen the readme.txt file and follow the instructions\n!!!\n\nIf you encounter a problem for installing or when using it, let me know so I can fix it\n\nReason of why you have to edit files in game data folder :\nThis mod is using tools (like the spudgun), not blocks. Scrap Mechanic doesn't allow (for now) mods with custom tools, so you have to edit game files to implement them.\n\nHow to use :\nOpen the mod folder ( ...\\steamapps\\workshop\\content\\387990\\1505812019\\ )\nOpen the howToUse.txt file\n\nEsseivaN\nv7\n",
+   "fileId" : 1505812019,
+   "localId" : "da5d6cd4-5d52-412e-86b6-bd3e1c968001",
+   "name" : "Tools",
+   "type" : "Blocks and Parts",
+   "version" : 0.30
+}

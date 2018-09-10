@@ -1,0 +1,25 @@
+
+		{
+			"uuid": "eb593131-3509-42a2-8468-716dc0036560",
+			"previewRenderable": "$GAME_DATA/Character/Char_Tools/char_spudgun_preview.rend",
+			"previewRotation": [ 1, 0, 0, 0, 0, -1, 0, 1, 0 ],
+			"script": { "file": "$GAME_DATA/Mod_EsseivaN/Scripts/Jetpack.lua", "class": "Jetpack" }
+		},
+		{
+			"uuid": "eb593131-3509-42a2-8468-716dc0036561",
+			"previewRenderable": "$GAME_DATA/Character/Char_Tools/char_spudgun_preview.rend",
+			"previewRotation": [ 1, 0, 0, 0, 0, -1, 0, 1, 0 ],
+			"script": { "file": "$GAME_DATA/Mod_EsseivaN/Scripts/MachineGun.lua", "class": "MachineGun" }
+		},
+		{
+			"uuid": "eb593131-3509-42a2-8468-716dc0036562",
+			"previewRenderable": "$GAME_DATA/Character/Char_Tools/char_spudgun_preview.rend",
+			"previewRotation": [ 1, 0, 0, 0, 0, -1, 0, 1, 0 ],
+			"script": { "file": "$GAME_DATA/Mod_EsseivaN/Scripts/Sniper.lua", "class": "Sniper" }
+		},
+		{
+			"uuid": "eb593131-3509-42a2-8468-716dc0036563",
+			"previewRenderable": "$GAME_DATA/Character/Char_Tools/char_spudgun_preview.rend",
+			"previewRotation": [ 1, 0, 0, 0, 0, -1, 0, 1, 0 ],
+			"script": { "file": "$GAME_DATA/Mod_EsseivaN/Scripts/ConfigurableGun.lua", "class": "ConfigurableGun" }
+		},

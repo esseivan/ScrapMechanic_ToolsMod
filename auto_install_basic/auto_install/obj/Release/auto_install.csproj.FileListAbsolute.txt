@@ -1,0 +1,9 @@
+C:\WorkSpace\Personnal\auto_install_basic\auto_install\bin\Release\auto_install.exe.config
+C:\WorkSpace\Personnal\auto_install_basic\auto_install\bin\Release\auto_install.exe
+C:\WorkSpace\Personnal\auto_install_basic\auto_install\bin\Release\auto_install.pdb
+C:\WorkSpace\Personnal\auto_install_basic\auto_install\obj\Release\auto_install.frmMain.resources
+C:\WorkSpace\Personnal\auto_install_basic\auto_install\obj\Release\auto_install.Properties.Resources.resources
+C:\WorkSpace\Personnal\auto_install_basic\auto_install\obj\Release\auto_install.csproj.GenerateResource.cache
+C:\WorkSpace\Personnal\auto_install_basic\auto_install\obj\Release\auto_install.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Personnal\auto_install_basic\auto_install\obj\Release\auto_install.exe
+C:\WorkSpace\Personnal\auto_install_basic\auto_install\obj\Release\auto_install.pdb

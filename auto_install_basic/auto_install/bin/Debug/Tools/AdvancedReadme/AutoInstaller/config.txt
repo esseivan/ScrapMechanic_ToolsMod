@@ -1,0 +1,35 @@
+// 1st action - Edit tool_database
+// File to edit, In this file
+1:1:1:<File>
+// Replace the following text
+4:2:1:<text>
+// By the content of this file
+5:3:1:<File>
+
+// 2nd action - Replace image
+// Delete image
+6:1:2:<File>
+// Copy the new image
+8:1:2:<File>
+
+// 3rd action - Edit xml for the image
+// File to edit, In this file
+1:1:3:<File>
+// Replace the following text
+4:2:3:<text>
+// By the content of this file
+5:3:3:<File>
+
+// 4th action - Edit the language file
+// File to edit, In this file
+1:1:4:<File>
+// Replace the following text
+4:2:4:<text>
+// By the content of this file
+5:3:4:<File>
+
+// 5th action - Copy mod directory
+// Copy to the location
+8:4:5:<Directory>
+// The specified directory
+9:4:5:<Directory>
